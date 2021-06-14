@@ -1,0 +1,10 @@
+site_name: napari-microscopy-image-denoising
+site_description: Initial version of a denoising algorithm for microscopy image.
+site_author: Félix Fuentes
+
+theme: readthedocs
+
+repo_url: https://github.com/ffuhu/napari-microscopy-image-denoising
+
+pages:
+- Home: index.md
